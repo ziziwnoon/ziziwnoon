@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ziziwnoon
-- 🌱 I’m about to be a Back-End developer...
+- 🌱 Node.js Developer
 
 
 <!---
