@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ziziwnoon
-- 🌱 Node.js Developer
 
 
 <!---
